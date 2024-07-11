@@ -108,7 +108,8 @@ margin-right: 10px;
   flex-direction: column;
   justify-content: center;
   align-items:center;
-  margin: 40px auto;
+  margin: 38px;
+  padding: 30px;
 }
 .yt-video{
   display: flex;
@@ -132,5 +133,38 @@ margin: 45px;
   gap: 15px;
   padding: 12px;
   box-shadow: 12px;
-
+}
+.html{
+  background-color:#FF4C1E0D ;
+}
+.css{
+  background-color:#004CE80D ;
+}
+.js{
+  background-color: #FFDF000D;
+}
+.bottom-sec{
+  display: flex;
+  background-image:url(../resources/handshake.jpg) ;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  margin: 30px;
+  border-radius: 7px;
+  box-shadow: 12px;
+}
+.upper-txt{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 120px;
+  margin: 0 auto;
+}
+.bottom-box{
+ display: flex;
+ justify-content:space-around;
+ gap: 70px;
+ padding: 30px;
 }
