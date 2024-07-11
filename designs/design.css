@@ -168,3 +168,7 @@ margin: 45px;
  gap: 70px;
  padding: 30px;
 }
+.last-one{
+  display: flex;
+  margin: 0 50px;
+}
