@@ -102,3 +102,35 @@ margin-right: 10px;
   box-shadow: 15px gainsboro;
   border: 2px solid rgba(238, 238, 238, 0.785);
 }
+.text-insp{
+  width: 90%;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+  margin: 40px auto;
+}
+.yt-video{
+  display: flex;
+  justify-content: center;
+  box-shadow: 22px;
+}
+.target-text{
+width: 90%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin: 45px;
+}
+.technologies{
+  width: 90%;
+  margin: 15px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  padding: 12px;
+  box-shadow: 12px;
+
+}
